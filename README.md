@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1> Hello there, I'm Fynn 👋 </h1>
 
-<!--
-**ffischbach/ffischbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=fynnfischbach.de&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fynnfischbach.de)
 
-Here are some ideas to get you started:
+<h2> I'm a developer from Germany.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything 😄 but my focus is on Java and React/Javascript.
+- 💻 My goals for 2021:
+- 🎣 Fun fact: I love to going to the gym and fishing 
+
+<h2> Connect with me: </h2>
+
+[<img align="left" alt="fynnfischbach.de" width="30px" src="https://image.flaticon.com/icons/png/512/3447/3447560.png" />][website-contact]
+[<img align="left" alt="linkedin | LinkedIn" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+<br />
+<br />
+
+<h2> Languages and Tools: </h2>
+
+[<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />][website]
+[<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />][website]
+[<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />][website]
+[<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][website]
+[<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />][website]
+[<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][website]
+[<img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][website]
+[<img align="left" alt="Terminal" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][website]
+
+
+[website]: https://fynnfischbach.de
+[website-contact]: https://fynnfischbach.de/kontakt
+[linkedin]: https://linkedin.com/in/fynn-fischbach-672a73203
+
