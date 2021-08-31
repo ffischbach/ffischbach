@@ -1,6 +1,7 @@
 <h1> Hello there, I'm Fynn 👋 </h1>
 
-[![Website](https://img.shields.io/website?label=fynnfischbach.de&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fynnfischbach.de)
+[![Website](https://img.shields.io/website?label=fynnfischbach.de&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fynnfischbach.de)<br />
+[![Website](https://img.shields.io/website?label=My-Blog&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ffischbach.github.io/blog/about/)
 
 <h2> I'm a developer from Germany.</h2>
 
