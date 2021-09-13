@@ -6,7 +6,7 @@
 <h2> I'm a developer from Germany.</h2>
 
 - 🌱 I’m currently learning everything 😄 but my focus is on Java and React/Javascript.
-- 💻 My goals for 2021:
+- 💻 My goals for 2021: Getting more confident with programming next.js web apps and Java/Spring Boot applications, learning Node Js.
 - 🎣 Fun fact: I love to going to the gym and fishing 
 
 <h2> Connect with me: </h2>
