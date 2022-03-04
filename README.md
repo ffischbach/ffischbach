@@ -29,6 +29,6 @@
 
 
 <!--[website]: https://fynnfischbach.de
-[website-contact]: https://fynnfischbach.de/kontakt-->
-[linkedin]: https://linkedin.com/in/fynn-fischbach-672a73203
+[website-contact]: https://fynnfischbach.de/kontakt
+[linkedin]: https://linkedin.com/in/fynn-fischbach-672a73203 -->
 
