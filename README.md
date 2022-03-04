@@ -1,7 +1,7 @@
 <h1> Hello there, I'm Fynn 👋 </h1>
 
-[![Website](https://img.shields.io/website?label=fynnfischbach.de&style=for-the-badge&url=https%3A%2F%2Ffynnfischbach.de)](https://fynnfischbach.de)
-[![Website](https://img.shields.io/website?label=My-Blog&style=for-the-badge&url=https%3A%2F%2Fffischbach.github.io/blog/)](https://ffischbach.github.io/blog/about/)
+<!--[![Website](https://img.shields.io/website?label=fynnfischbach.de&style=for-the-badge&url=https%3A%2F%2Ffynnfischbach.de)](https://fynnfischbach.de)
+[![Website](https://img.shields.io/website?label=My-Blog&style=for-the-badge&url=https%3A%2F%2Fffischbach.github.io/blog/)](https://ffischbach.github.io/blog/about/)-->
 
 <h2> I'm a developer from Germany.</h2>
 
@@ -11,7 +11,7 @@
 
 <h2> Connect with me: </h2>
 
-[<img align="left" alt="fynnfischbach.de" width="30px" src="https://image.flaticon.com/icons/png/512/3447/3447560.png" />][website-contact]
+<!--[<img align="left" alt="fynnfischbach.de" width="30px" src="https://image.flaticon.com/icons/png/512/3447/3447560.png" />][website-contact]-->
 [<img align="left" alt="linkedin | LinkedIn" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 <br />
 <br />
@@ -28,7 +28,7 @@
 [<img align="left" alt="Terminal" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />][website]
 
 
-[website]: https://fynnfischbach.de
-[website-contact]: https://fynnfischbach.de/kontakt
+<!--[website]: https://fynnfischbach.de
+[website-contact]: https://fynnfischbach.de/kontakt-->
 [linkedin]: https://linkedin.com/in/fynn-fischbach-672a73203
 
