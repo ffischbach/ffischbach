@@ -6,8 +6,7 @@
 <h2> I'm a developer from Germany.</h2>
 
 - 🌱 I’m currently learning Java and React.
-- 💻 My goals for 2021: Getting more confident with programming next.js web apps and Java/Spring Boot applications.
-- 🎣 I love to go to the gym and fishing 
+- 🎣 I love to go to the gym, fishing, motorcylcle rides and obviously coding.
 
 <h2> Connect with me: </h2>
 
