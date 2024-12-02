@@ -5,5 +5,5 @@ plugins:
 navigation:
   - title: home
     url: /
-  - title: domain-information-groper
+  - title: dig
     url: /dig
