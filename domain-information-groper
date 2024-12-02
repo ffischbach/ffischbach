@@ -1,3 +1,8 @@
+---
+title: dig
+layout: default
+---
+
 Dig ist ein flexibles und leistungsstarkes DNS-Abfragetool, das Informationen über DNS-Einträge (z. B. A-, MX-, TXT-, SOA- und NS-Records) abruft und analysiert. Es eignet sich ideal für Netzwerkdiagnosen und das Debugging von DNS-Problemen.
 
 - [Offizielle Dig-Dokumentation](https://manpages.debian.org/buster/dnsutils/dig.1.en.html)
