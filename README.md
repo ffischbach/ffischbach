@@ -1,3 +1,8 @@
+---
+title: Notes von meiner Weiterbildung
+layout: default
+---
+
 # **Hilfreiche Online-Tools**
 
 - **[ExploitDB aka Google Hacking DB](https://www.exploit-db.com/)**  
