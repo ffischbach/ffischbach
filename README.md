@@ -1,5 +1,5 @@
 ---
-title: Notes von meiner Weiterbildung
+title: home
 layout: default
 ---
 
