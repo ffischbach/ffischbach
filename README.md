@@ -37,7 +37,7 @@
 ---
 ---
 
-## Hashcat
+# Hashcat
 
 Hashcat ist ein Tool zum Knacken von Passwörtern, das verschiedene Angriffsmodi und Hash-Typen unterstützt.
 
@@ -104,7 +104,7 @@ hashcat -m 1000 -a 0 -r rules/best64.rule hashes.txt /usr/share/wordlists/rockyo
 ---
 ---
 
-Dig (Domain Information Groper)
+# Dig (Domain Information Groper)
 
 Dig ist ein flexibles und leistungsstarkes DNS-Abfragetool, das Informationen über DNS-Einträge (z. B. A-, MX-, TXT-, SOA- und NS-Records) abruft und analysiert. Es eignet sich ideal für Netzwerkdiagnosen und das Debugging von DNS-Problemen.
 
@@ -221,7 +221,7 @@ dig [Optionen] <Domain/Name/IP> [Abfragetyp] [Klasse] [@DNS-Server]
 
 ---
 
-## Dig (Domain Information Groper)
+# Dig (Domain Information Groper)
 
 ### **Nützliche Kombinationen**
 
@@ -291,7 +291,7 @@ dig [Optionen] <Domain/Name/IP> [Abfragetyp] [Klasse] [@DNS-Server]
 ---
 ---
 
-## Netcat
+# Netcat
 
 Netcat ist ein vielseitiges Tool zur Arbeit mit TCP- und UDP-Verbindungen. Es wird oft als "Schweizer Taschenmesser" für Netzwerke bezeichnet und eignet sich für Port-Scans, Datenübertragung, Debugging und einfache Server/Client-Kommunikation.
 
@@ -471,7 +471,7 @@ Netcat kann bei unsachgemäßer Verwendung Sicherheitsrisiken darstellen, insbes
 ---
 ---
 
-## Nmap (Network Mapper)
+# Nmap (Network Mapper)
 
 Nmap ist ein mächtiges Open-Source-Tool für Netzwerkerkennung und Sicherheitsaudits. Es wird verwendet, um Netzwerke zu scannen, offene Ports und Dienste zu identifizieren sowie Betriebssysteme und Schwachstellen zu erkennen.
 
@@ -697,7 +697,7 @@ nmap -A <IP-Adresse/Host>
 ---
 ---
 
-## GoBuster
+# GoBuster
 
 GoBuster ist ein Tool zum Directory- und DNS-Fuzzing. Es wird hauptsächlich verwendet, um versteckte Verzeichnisse, Dateien und Subdomains auf Webservern zu entdecken. Es ist ein schnelles, command-line-basiertes Tool, das auf Bruteforce-Techniken basiert.
 
@@ -859,7 +859,7 @@ gobuster fuzz -u https://example.com/FUZZ -w /path/to/wordlist.txt
 ---
 ---
 
-## Metasploit Framework
+# Metasploit Framework
 
 Metasploit ist ein leistungsstarkes Open-Source-Framework für Penetration Testing und Exploits. Es wird verwendet, um Schwachstellen zu identifizieren, Exploits auszuführen und Post-Exploitation-Aktivitäten durchzuführen.
 
